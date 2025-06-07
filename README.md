@@ -1,4 +1,4 @@
-#### Introduction to Terraform
+### Introduction to Terraform
 Terraform is an open-source Infrastructure as Code (IaC) tool developed by HashiCorp. It allows users to define and provision cloud and on-premises infrastructure using a declarative configuration language called HashiCorp Configuration Language (HCL).
 Why Terraform?
 - Multi-cloud support: Works with AWS, Azure, Google Cloud, and many other providers.
@@ -10,11 +10,9 @@ How Terraform Works:
 - Plan: Terraform generates an execution plan showing what will change.
 - Apply: Terraform provisions or updates resources based on the plan.
 
-###Azure-Terraform repositories
+***Below are the links of some standatd Azure-Terraform repositories***
 
-Below are the link of some trandard Azure-Terraform Repositories
-
-**Terraform Providers**
+**1.Terraform Providers**
 
 Terraform providers are plugins that allow Terraform to interact with various cloud platforms, SaaS providers, and APIs. They enable Terraform to manage infrastructure resources across different environments. Each provider adds a set of resource types and data sources that Terraform can use.
 
