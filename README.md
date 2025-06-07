@@ -9,4 +9,4 @@ In Terraform, the Azure provider block is used to configure the Microsoft Azure 
 
 Here's a basic example link:
 
-[AzureProvider](http://https://github.com/animesh-sarkar/Terraform/blob/main/Provider.tf "AzureProvider.tf")
+[AzureProvider](http://https://github.com/animesh-sarkar/Terraform/blob/main/Provider.tf "AzureProvider")
