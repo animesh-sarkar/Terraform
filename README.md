@@ -17,3 +17,5 @@ Why Terraform?
 
 
 1.[AzureProvider](https://github.com/animesh-sarkar/Terraform/blob/main/Provider.tf "AzureProvider")
+
+2.[Azure RG](https://github.com/animesh-sarkar/Terraform/blob/main/ResourceGroup.tf "Azure RG")
