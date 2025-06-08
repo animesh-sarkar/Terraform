@@ -50,4 +50,8 @@ Why Terraform?
 
 you can access the Apache default page at the URL and IP provided in the output
 
-If the Apache IP is not showing in the output, it is likely because the public IP address isn't being populated immediately when the VM is created
+If the Apache IP is not showing in the output, it is likely because the public IP address isn't being populated immediately when the VM is created.
+
+10.[Windows-VM](https://github.com/animesh-sarkar/Terraform/blob/main/Win-VM.tf "Windows-VM")
+
+This script will create a single Windows Virtual machine .
