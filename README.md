@@ -28,4 +28,4 @@ Why Terraform?
 
 6.[Vnet-Peering Cross-region Type-1](https://github.com/animesh-sarkar/Terraform/blob/main/Vnet-Peering_CrossRegion-1.tf "Vnet-Peering Cross-region Type-1")
 
-7. [Vnet-Peering Cross-region Type-2](https://github.com/animesh-sarkar/Terraform/blob/main/Vnet-Peering_CrossRegion-2.tf "Vnet-Peering Cross-region Type-2")
+7.[Vnet-Peering Cross-region Type-2](https://github.com/animesh-sarkar/Terraform/blob/main/Vnet-Peering_CrossRegion-2.tf "Vnet-Peering Cross-region Type-2")
