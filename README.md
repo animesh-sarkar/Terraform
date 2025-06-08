@@ -33,3 +33,21 @@ Why Terraform?
 8.[Single ubuntu VM creation ](https://github.com/animesh-sarkar/Terraform/blob/main/ubuntuVM.tf "Single ubuntu VM creation ")
 
   This script will create a single ubuntu Virtual machine with user_id and password as authentication method
+
+9. [Apache-Ubuntu](https://github.com/animesh-sarkar/Terraform/blob/main/Apache-Ubuntu.tf "Apache-Ubuntu")
+    
+**The script automatically:-**
+
+1.Creates all necessary networking components
+
+2.Launches an Ubuntu VM
+
+3.Installs and starts Apache
+
+4.Opens the necessary firewall ports
+
+5.Provides the endpoint URL and VM public IP in the output
+
+you can access the Apache default page at the URL and IP provided in the output
+
+If the Apache IP is not showing in the output, it is likely because the public IP address isn't being populated immediately when the VM is created
