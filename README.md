@@ -31,4 +31,5 @@ Why Terraform?
 7.[Vnet-Peering Cross-region Type-2](https://github.com/animesh-sarkar/Terraform/blob/main/Vnet-Peering_CrossRegion-2.tf "Vnet-Peering Cross-region Type-2")
 
 8.[Single ubuntu VM creation ](https://github.com/animesh-sarkar/Terraform/blob/main/ubuntuVM.tf "Single ubuntu VM creation ")
+
   This script will create a single ubuntu Virtual machine with user_id and password as authentication method
