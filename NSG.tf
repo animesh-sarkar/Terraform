@@ -90,3 +90,6 @@ resource "azurerm_subnet_network_security_group_association" "example_nsg" {
 subnet_id                 = azurerm_subnet.example.id
 network_security_group_id = azurerm_network_security_group.example.id
 }
+output "nsg_id" {
+  value = azurerm_network_security_group.example.id
+}
