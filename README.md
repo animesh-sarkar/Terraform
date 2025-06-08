@@ -34,7 +34,7 @@ Why Terraform?
 
   This script will create a single ubuntu Virtual machine with user_id and password as authentication method
 
-9. [Apache-Ubuntu](https://github.com/animesh-sarkar/Terraform/blob/main/Apache-Ubuntu.tf "Apache-Ubuntu")
+9.[Apache-Ubuntu](https://github.com/animesh-sarkar/Terraform/blob/main/Apache-Ubuntu.tf "Apache-Ubuntu")
     
 **The script automatically:-**
 
