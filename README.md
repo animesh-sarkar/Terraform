@@ -23,3 +23,9 @@ Why Terraform?
 3.[Vnet-Creation](https://github.com/animesh-sarkar/Terraform/blob/main/Vnet.tf "Vnet-Creation")
 
 4.[Vnet-with-Subnets](https://github.com/animesh-sarkar/Terraform/blob/main/Vnet_with_Subnet.tf "Vnet-with-Subnets")
+
+5.[Vnet Peering - Same Region](https://github.com/animesh-sarkar/Terraform/blob/main/Vnet_peering_same-Region.tf "Vnet Peering - Same Region")
+
+6.[Vnet-Peering Cross-region Type-1](https://github.com/animesh-sarkar/Terraform/blob/main/Vnet-Peering_CrossRegion-1.tf "Vnet-Peering Cross-region Type-1")
+
+7. [Vnet-Peering Cross-region Type-2](https://github.com/animesh-sarkar/Terraform/blob/main/Vnet-Peering_CrossRegion-2.tf "Vnet-Peering Cross-region Type-2")
